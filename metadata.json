@@ -1,0 +1,6 @@
+{
+  "name": "GovEase — Government Certificate & Brokerage Service Platform",
+  "description": "A secure, modern citizen assistance platform to discover, track, and get verified agent assistance for government certificates, registrations, and citizen services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
